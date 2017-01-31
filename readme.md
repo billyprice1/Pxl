@@ -33,6 +33,7 @@ forgot the name, Slack and Discord support it)
 - [ ] Enforce limits on accounts? Images / space / etc?
 - [ ] Amazon S3 support via Laravel (Maybe?)
 - [ ] Pxl-goodbye: Zip download of all your data? (Note:
+- [ ] Deploy To Heroku 
 May have performance and timeout issues in PHP. Must look into it in detail later.)
 
 ## Helping out
